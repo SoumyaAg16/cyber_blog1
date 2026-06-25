@@ -4,14 +4,14 @@ The cyber attack on Marks & Spencer last year reveals the growing threat of cybe
 
 #Major Cyber security Threats Facing India
 
-Rise in financial fraud
-Cyber espionage agencies
-Ransom demands for digital assets
-Exploitation of youth and false job promises
-Emerging threat of cryptojacking
-Advanced Persistent Threats (APTs)
-Exploitation of cloud and API vulnerabilities
-AI-powered deepfakes and chatbot phishing
+#Rise in financial fraud
+#Cyber espionage agencies
+#Ransom demands for digital assets
+#Exploitation of youth and false job promises
+#Emerging threat of cryptojacking
+#Advanced Persistent Threats (APTs)
+#Exploitation of cloud and API vulnerabilities
+#AI-powered deepfakes and chatbot phishing
 
 #Cybercrime  - Any type of criminal activity planned by an individual or an entire organization that targets computer information holders, infrastructure, and computer networks with the aim of damaging or destroying the targeted computer network or system.
 
